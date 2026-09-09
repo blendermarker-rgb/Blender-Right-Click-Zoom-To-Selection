@@ -1,3 +1,4 @@
+<img width="612" height="219" alt="Right Click Zoom" src="https://github.com/user-attachments/assets/cac41145-517d-414e-8aae-b0c7de0d09ea" />
 # Blender Right Click Zoom To Selection
 
 A small Blender add-on that adds **Zoom To Selection** to the right-click menu in the 3D View.
